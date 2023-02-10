@@ -235,7 +235,8 @@ local config = {
             { 'vim-airline/vim-airline-themes' },
             { 'sainnhe/edge' },
             { 'sainnhe/sonokai' },
-            { 'olimorris/onedarkpro.nvim' }
+            { 'olimorris/onedarkpro.nvim' },
+            { 'rust-lang/rust.vim' },
 
             -- We also support a key value style plugin definition similar to NvChad:
             -- ["ray-x/lsp_signature.nvim"] = {
